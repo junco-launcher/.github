@@ -1,5 +1,7 @@
 # Junco Launcher
 
+> **IMPORTANT: This project is paused for the foreseeable future due to issues accessing Microsoft OAuth tokens for Minecraft.**
+
 **Mine Smarter with Junco**
 
 Launch Minecraft with vanilla, Forge, or Fabric support. Add mods with one click and convert your worlds to servers effortlessly.
